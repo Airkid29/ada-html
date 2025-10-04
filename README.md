@@ -1,7 +1,7 @@
 <h1>CoWorkSpace</h1>   
 
 A Modern Landing page template built with Tailwindcss and CoWorkSpace
-<img src="public/cover.png" />
+<img src="public/image.png" />
 
 ## Features 
 
