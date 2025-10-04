@@ -1,7 +1,6 @@
-<h1>Ada</h1>   
+<h1>CoWorkSpace</h1>   
 
-A Modern Landing page template built with Tailwindcss and Tailus Themer
-
+A Modern Landing page template built with Tailwindcss and CoWorkSpace
 <img src="public/cover.png" />
 
 ## Features 
